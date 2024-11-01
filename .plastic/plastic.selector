@@ -1,0 +1,4 @@
+repository "Rock Paper Scissors@Clash@cloud"
+  path "/"
+    br "/main"
+    co "/main"
